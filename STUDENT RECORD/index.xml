@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+<students>
+<student>
+<sname>Preethi B. Shetty</sname>
+<usn>1RR19CS106</usn>
+<college>RRCE</college>
+<branch>CSE</branch>
+<yoj>2019</yoj>
+<email>Preethi213@gmail.com</email>
+</student>
+<student>
+<sname>Priyanka </sname>
+<usn>1RR19CS108</usn>
+<college>RRCE</college>
+<branch>CSE</branch>
+<yoj>2019</yoj>
+<email>priyanka101@gmail.com</email>
+</student>
+<student>
+<sname>Nayana B.</sname>
+<usn>1RR19CS095</usn>
+<college>RRCE</college>
+<branch>CSE</branch>
+<yoj>2019</yoj>
+<email>nayana10042001@gmail.com</email>
+</student>
+</students>

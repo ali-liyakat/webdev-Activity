@@ -1,0 +1,78 @@
+students{
+   margin: 10vh;
+   background-color: rgb(255, 255, 255);
+   font-family: 'cambria';
+   }
+   Student {
+   display: block;
+   margin-bottom: 15pt;
+   margin-left: 0;
+   }
+   Sname {
+   display: block;
+   font-size: 15pt;
+   text-transform: uppercase;
+   color: rgb(0, 0, 0);}
+   usn:before
+   {
+   content: "USN: ";
+   font-size: 14pt;
+   font-weight: bold;
+   }
+   usn
+   {
+   display: block;
+   font-size: 14pt;
+   margin-left: 20pt;
+   text-transform: uppercase;
+   color: rgb(0, 0, 0);
+      }
+     college:before
+      {
+          content: "Affiliated College: ";
+          font-size: 14pt;
+   font-weight: bold;
+   }
+   college {
+   display: block;
+   font-size: 14pt;
+   margin-left: 20pt;
+   color: rgb(0, 0, 0);
+   }
+   branch:before {
+   content: "Branch: ";
+   font-size: 14pt;
+   font-weight: bold;
+   }
+   branch
+   {
+   display: block;
+    font-size: 14pt;
+     margin-left: 20pt;
+   color: rgb(0, 0, 0);
+   }
+   yoj:before
+   {
+   content: "Year of Joining: ";
+   font-size: 14pt;
+   font-weight: bold;
+   }
+   yoj {
+   display: block;
+   font-size: 14pt;
+   margin-left: 20pt;
+   color: rgb(0, 0, 0);
+   }
+   email:before
+   {
+   content: "Email-Id: ";
+   font-size: 14pt;
+   font-weight: bold;
+   }
+   email
+   {
+   display: block;
+   font-size: 14pt;
+   margin-left: 20pt;
+   color: rgb(0, 0, 0);
+   }
